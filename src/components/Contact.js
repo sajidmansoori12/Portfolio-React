@@ -44,8 +44,8 @@ const Contact = () => {
                                 ADDRESS
                             </h2>
                             <p className="mt-1">
-                                97 Warren St. <br />
-                                New York, NY 10007
+                                37,38 New Rampura Colony A <br />
+                                Mallatalai, Udaipur , India 313001
                             </p>
                         </div>
                         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -53,12 +53,12 @@ const Contact = () => {
                                 EMAIL
                             </h2>
                             <a className="text-indigo-400 leading-relaxed">
-                                reedbarger@email.com
+                                sajid.mansoori12@gmail.com
                             </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                 PHONE
                             </h2>
-                            <p className="leading-relaxed">123-456-7890</p>
+                            <p className="leading-relaxed">7879865634</p>
                         </div>
                     </div>
                 </div>
@@ -71,8 +71,7 @@ const Contact = () => {
                         Hire Me
                     </h2>
                     <p className="leading-relaxed mb-5">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-                        suscipit officia aspernatur veritatis. Asperiores, aliquid?
+                        Please fill out the following form to get in touch with me.
                     </p>
                     <div className="relative mb-4">
                         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
